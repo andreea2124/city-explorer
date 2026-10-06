@@ -123,7 +123,6 @@ button[type="submit"]:hover {
     background-color: #4831b0;
 }
 
-/* Secțiunea de recomandări (listă) */
 #recomandari ul {
     list-style-type: disc;
     padding-left: 20px;
@@ -137,7 +136,6 @@ button[type="submit"]:hover {
     margin-bottom: 10px;
 }
 
-/* Subsolul paginii */
 .site-footer {
     text-align: center;
     padding: 20px;
